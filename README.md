@@ -73,7 +73,6 @@ for i = 1, 10 do
     wait(0.05)
 end
 WelcomeFrame.Visible = false
-FarmGui.Visible = true
 
 
 
